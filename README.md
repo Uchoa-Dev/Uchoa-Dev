@@ -13,7 +13,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 🧠 Focado em **desenvolvimento Fullstack, dados, dashboards e automação de processos**
+- 🧠 Focado em **Banco de dados, dashboards, automação de processos e desenvolvimento Fullstack**
 - 📊 Gosto de transformar **dados em informações e decisões** através de visualizações e relatórios
 - 🚀 Sempre explorando novas tecnologias, ferramentas de IA e boas práticas de desenvolvimento
 - ⚡ Atualmente explorando cada vez mais **Vibe Coding, AI Development e automação**
